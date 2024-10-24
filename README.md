@@ -56,7 +56,8 @@ int main()
 
 ## OUTPUT
 
-![alt text](image.png)
+![image (2)](https://github.com/user-attachments/assets/fb77d02a-e759-4e15-9988-d6fa6d8ba831)
+
 
 
 # RESULT:
