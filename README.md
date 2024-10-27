@@ -20,10 +20,9 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : ASHWINA K N
+Developed by : SHARON STEFFANI.F
 
-Register Number : 212223230025
-
+Register Number : 212223110049
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 ~~~
